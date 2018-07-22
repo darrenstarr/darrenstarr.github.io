@@ -25,11 +25,15 @@ github_username:  darrenstarr
 # Build settings
 markdown: kramdown
 
-remote_theme: Phlow/feeling-responsive
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  
+
+#theme: jekyll-theme-architect
+remote_theme: benbalter/retlab
+#remote_theme: Phlow/feeling-responsive
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
