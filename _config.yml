@@ -31,8 +31,8 @@ plugins:
   - jekyll-remote-theme
 
 #theme: jekyll-theme-architect
-remote_theme: benbalter/retlab
-#remote_theme: Phlow/feeling-responsive
+#remote_theme: benbalter/retlab
+remote_theme: Phlow/feeling-responsive
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
