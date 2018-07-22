@@ -24,7 +24,7 @@ github_username:  darrenstarr
 
 # Build settings
 markdown: kramdown
-remote_theme: feeling-responsive
+remote_theme: Phlow/feeling-responsive
 plugins:
   - jekyll-feed
 
