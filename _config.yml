@@ -32,7 +32,7 @@ plugins:
 
 #theme: jekyll-theme-architect
 #remote_theme: benbalter/retlab
-remote_theme: Phlow/feeling-responsive
+remote_theme: LeNPaul/Millennial
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
